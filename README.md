@@ -1,5 +1,7 @@
 # 📩 Spam SMS Detection using Machine Learning
-
+🚀 Live Demo
+👉 Click here to try the app:
+https://blavanya14-spamsmsproject-spam-app-o3gmn9.streamlit.app/
 ## 📌 Project Overview
 
 This project is a **Spam SMS Detection system** built using **Machine Learning and Natural Language Processing (NLP)**. The goal is to automatically classify SMS messages as **Spam** or **Ham (Not Spam)** based on their content.
